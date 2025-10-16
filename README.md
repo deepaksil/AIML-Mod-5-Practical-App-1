@@ -9,7 +9,7 @@ Use the knowledge and techniques acquired so far from the course to distinguish 
 ## Data
 Use the link to the [Coupons Dataset](https://github.com/deepaksil/AIML-Mod-5-Practical-App-1/tree/main/data)
 
-Source: UCI Machine Learning repository and was collected via a survey on Amazon Mechanical Turk. 
+Source: [UCI Machine Learning repository](https://archive.ics.uci.edu/dataset/603/in+vehicle+coupon+recommendation) and was collected via a survey on Amazon Mechanical Turk. 
 
 Data Description: User attributes, Contextual Attributes, and Coupon Attributes are available in the Jupyter Notebook
 
