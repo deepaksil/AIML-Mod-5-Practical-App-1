@@ -20,7 +20,7 @@ Use the link to the [Jupyter Notebook](https://github.com/deepaksil/AIML-Mod-5-P
   ### Data Quality & Data Scrub
 * Car Column: Dropped since the missing percentage is very high (over 99%)
 * Bar, CofffeeHouse, CarryWay, RestaurantLessThan20, Restaurant20To50 Columns
-  * Replace 1~3, 4~8 with 2 and 6 respectively (mid points)
+  * Replace 1\~3, 4~8 with 2 and 6 respectively (mid points)
   * Replace ‘never’ and ‘less1’ with 0
   * Replace gr8 with 8
   * populate NaNs with the median
