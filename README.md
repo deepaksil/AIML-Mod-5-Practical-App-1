@@ -46,5 +46,5 @@ Use the link to the [Jupyter Notebook](https://github.com/deepaksil/AIML-Mod-5-P
 * Among the married couples, coupons sent to male divers has higher acceptance rate than to the female drivers (75% vs 72%)
 * Driving Direction has no significant effect on the acceptance rate for Married Couples
 * **Recommendations:**
-* Since the criteria chosen for this analysis were limited and did not show significant variation in acceptance rates, it is recommended that other features are investigated.
-* Some suggested criteria to consider:  drivers with children (e.g., if the coupon is based on order size), time of day (e.g., more carry-out may happen in the evening), drivers' income (low income may mean less purchase, high income may mean going to expensive restaurants).
+  * Since the criteria chosen for this analysis were limited and did not show significant variation in acceptance rates, it is recommended that other features are investigated.
+  * Some suggested criteria to consider:  drivers with children (e.g., if the coupon is based on order size), time of day (e.g., more carry-out may happen in the evening), drivers' income (low income may mean less purchase, high income may mean going to expensive restaurants).
