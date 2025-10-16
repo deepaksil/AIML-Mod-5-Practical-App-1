@@ -7,12 +7,14 @@ Based in the data collected for different demographic groups, their behavior on 
 Use the knowledge and techniques acquired so far from the course to distinguish between customers who accepted a driving coupon versus those that did not.
 
 ## Data
-Coupons
+Use the link to the [Coupons Dataset](https://github.com/deepaksil/AIML-Mod-5-Practical-App-1/tree/main/data)
+
 Source: UCI Machine Learning repository and was collected via a survey on Amazon Mechanical Turk. 
+
 Data Description: User attributes, Contextual Attributes, and Coupon Attributes are available in the Jupyter Notebook
 
 ## Solution
-Jupyter Notebook
+Use the link to the [Jupyter Notebook](https://github.com/deepaksil/AIML-Mod-5-Practical-App-1/blob/main/AIML_MOD5_PA1.ipynb)
 
 ## Findings
   ### Data Quality & Data Scrub
